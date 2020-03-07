@@ -1,0 +1,19 @@
+{
+  "name": "first_electron",
+  "version": "1.0.0",
+  "description": "A simple project to try and build an ide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Still working on this\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avismarahl/electron-tutorial.git"
+  },
+  "author": "avismara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avismarahl/electron-tutorial/issues"
+  },
+  "homepage": "https://github.com/avismarahl/electron-tutorial#readme"
+}
